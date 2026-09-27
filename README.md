@@ -1,13 +1,71 @@
-<h3 align="center">Brazilian cybersecurity developer passionate about technology and security.</h3>
+<div align="center">
+  <h2> 
+    Hi, there! 👋
+  </h2>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=truesanthxs&label=Profile%20views&color=0e75b6&style=flat" alt="truesanthxs" /> </p>
+### 👨🏻‍💻 &nbsp;[About Me](https://portfolio-mu-tawny-efc8ayr4cb.vercel.app/)
 
-- 🔭 I’m currently working on **turning curiosity into knowledge, and knowledge into skill.**
+I'm a Cybersecurity Enthusiast 👨‍💻
 
-- 👨‍💻 All of my projects are available at [https://portfolio-mu-tawny-efc8ayr4cb.vercel.app/](https://portfolio-mu-tawny-efc8ayr4cb.vercel.app/)
+Currently self teaching with online resources 👨‍🎓
 
-- 💬 Ask me about **CTFs • Ethical Hacking • Linux • Cybersecurity Labs • Programming • Networking • Open Source • Tech Projects**
+🌱 Currently learning and growing my skillset in offensive security & Rust development.\
+📦  Server operator and maintainer in my spare time.\
+💡 I like to expand my knowledge and explore new technologies.\
+🎮  In my free time, I like to listen songs and game.\
+🔐 Co-founder of a cybersecurity startup focused on pentesting & incident response.\
+🐨 I come from a land down under 🎶
 
-- 📫 How to reach me **t.me/truesanthxs**
+<details>
+<summary><b>⚙️ &nbsp;GitHub Analytics</b></summary>
+<div align="center">
+  <h4> 
+    🏃 Happy Programing 🏃 
+  </h4>
+</div>
+<p align="center">
+  <a href="https://github.com/santhxs-sh">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santhxs-sh&show_icons=true&theme=dracula"/>
+    <br>
+    <img height="500em" src="https://github-readme-stats.vercel.app/api/wakatime?username=santhxs-sh&theme=dracula&layout=compact"/>
+  </a>
+</p>
+</details>
 
-- 📄 Know about my experiences **Cybersecurity • Linux • Networking • Python & C++ • Web Security • CTFs • Hack The Box • TryHackMe • PortSwigger**
+### 🛠 &nbsp;Tech Stack
+
+Technologies that I've been learning and picked up along my programming journey.
+
+#### 🌐  Languages : <br />
+
+![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
+![C Badge](https://img.shields.io/badge/C-000?logo=c&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
+![C++ Badge](https://img.shields.io/badge/C++-000?logo=cplusplus&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
+![Assembly Badge](https://img.shields.io/badge/Assembly-000?logo=nasm&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
+![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
+
+#### 🛠 OS, IDE & Tools: <br />
+
+![Arch Linux Badge](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
+![Kali Linux Badge](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
+![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
+![Nmap Badge](https://img.shields.io/badge/Nmap-000?logo=nmap&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
+![Wireshark Badge](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
+![Metasploit Badge](https://img.shields.io/badge/Metasploit-2596CD?logo=metasploit&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
+![Burp Suite Badge](https://img.shields.io/badge/Burp%20Suite-FF6633?logo=burpsuite&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
+![VirtualBox Badge](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
+![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
+
+#### 📦 Homelab Experience: <br />
+
+![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
+![UbuntuServer Badge](https://img.shields.io/badge/UbuntuServer-E95420?logo=ubuntu&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
+![TrueNAS Badge](https://img.shields.io/badge/TrueNAS-0095D5?logo=truenas&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
+![Nextcloud](https://img.shields.io/badge/Nextcloud-3693F3?logo=icloud&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
+
+![Visitors Stat](https://komarev.com/ghpvc/?username=santhxs-sh)
+[![wakatime](https://wakatime.com/badge/user/0b1b6854-9980-4101-a28a-0b148d8403d6.svg)](https://wakatime.com/@0b1b6854-9980-4101-a28a-0b148d8403d6)
