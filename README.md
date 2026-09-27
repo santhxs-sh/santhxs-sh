@@ -28,8 +28,6 @@ Currently self teaching with online resources 👨‍🎓
 <p align="center">
   <a href="https://github.com/santhxs-sh">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santhxs-sh&show_icons=true&theme=dracula"/>
-    <br>
-    <img height="500em" src="https://github-readme-stats.vercel.app/api/wakatime?username=santhxs-sh&theme=dracula&layout=compact"/>
   </a>
 </p>
 </details>
