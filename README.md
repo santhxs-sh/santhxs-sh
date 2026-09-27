@@ -60,12 +60,5 @@ Technologies that I've been learning and picked up along my programming journey.
 ![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
 
-#### 📦 Homelab Experience: <br />
-
-![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
-![UbuntuServer Badge](https://img.shields.io/badge/UbuntuServer-E95420?logo=ubuntu&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
-![TrueNAS Badge](https://img.shields.io/badge/TrueNAS-0095D5?logo=truenas&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
-![Nextcloud](https://img.shields.io/badge/Nextcloud-3693F3?logo=icloud&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
-
 ![Visitors Stat](https://komarev.com/ghpvc/?username=santhxs-sh)
 [![wakatime](https://wakatime.com/badge/user/0b1b6854-9980-4101-a28a-0b148d8403d6.svg)](https://wakatime.com/@0b1b6854-9980-4101-a28a-0b148d8403d6)
