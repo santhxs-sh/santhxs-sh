@@ -18,20 +18,6 @@ Currently self teaching with online resources 👨‍🎓
 🎮  In my free time, I like to listen songs and game.\
 🐨 I come from a land down under 🎶
 
-<details>
-<summary><b>⚙️ &nbsp;GitHub Analytics</b></summary>
-<div align="center">
-  <h4> 
-    🏃 Happy Programing 🏃 
-  </h4>
-</div>
-<p align="center">
-  <a href="https://github.com/santhxs-sh">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santhxs-sh&show_icons=true&theme=dracula"/>
-  </a>
-</p>
-</details>
-
 ### 🛠 &nbsp;Tech Stack
 
 Technologies that I've been learning and picked up along my programming journey.
