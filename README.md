@@ -10,11 +10,12 @@ I'm a Cybersecurity Enthusiast 👨‍💻
 
 Currently self teaching with online resources 👨‍🎓
 
-🌱 Currently learning and growing my skillset in offensive security & Rust development.\
-📦  Server operator and maintainer in my spare time.\
-💡 I like to expand my knowledge and explore new technologies.\
+🌱 Currently learning and growing my skillset in offensive security, exploit development & Rust.\
+🔐 Co-founder of a cybersecurity startup — pentesting, incident response & compliance for SMBs.\
+🕵️ Into red teaming, vulnerability research & CTFs.\
+📦  Server operator and maintainer in my spare time, hardening as I go.\
+💡 I like to expand my knowledge and explore new tools and attack techniques.\
 🎮  In my free time, I like to listen songs and game.\
-🔐 Co-founder of a cybersecurity startup focused on pentesting & incident response.\
 🐨 I come from a land down under 🎶
 
 <details>
