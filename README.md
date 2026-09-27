@@ -11,7 +11,3 @@
 - 📫 How to reach me **t.me/truesanthxs**
 
 - 📄 Know about my experiences **Cybersecurity • Linux • Networking • Python & C++ • Web Security • CTFs • Hack The Box • TryHackMe • PortSwigger**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
